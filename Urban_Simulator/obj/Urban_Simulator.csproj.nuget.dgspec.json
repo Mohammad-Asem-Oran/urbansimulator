@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Grasshopper polishing\\Rhino_Plug-Ins\\Urban_Simulator\\Urban_Simulator.csproj": {}
+    "D:\\Grasshopper polishing\\Rhino_Plug-Ins\\urbansimulator\\Urban_Simulator\\Urban_Simulator.csproj": {}
   },
   "projects": {
-    "D:\\Grasshopper polishing\\Rhino_Plug-Ins\\Urban_Simulator\\Urban_Simulator.csproj": {
+    "D:\\Grasshopper polishing\\Rhino_Plug-Ins\\urbansimulator\\Urban_Simulator\\Urban_Simulator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Grasshopper polishing\\Rhino_Plug-Ins\\Urban_Simulator\\Urban_Simulator.csproj",
+        "projectUniqueName": "D:\\Grasshopper polishing\\Rhino_Plug-Ins\\urbansimulator\\Urban_Simulator\\Urban_Simulator.csproj",
         "projectName": "Urban_Simulator",
-        "projectPath": "D:\\Grasshopper polishing\\Rhino_Plug-Ins\\Urban_Simulator\\Urban_Simulator.csproj",
+        "projectPath": "D:\\Grasshopper polishing\\Rhino_Plug-Ins\\urbansimulator\\Urban_Simulator\\Urban_Simulator.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\Grasshopper polishing\\Rhino_Plug-Ins\\Urban_Simulator\\obj\\",
+        "outputPath": "D:\\Grasshopper polishing\\Rhino_Plug-Ins\\urbansimulator\\Urban_Simulator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
