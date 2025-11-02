@@ -1,0 +1,9 @@
+D:\Grasshopper polishing\Rhino_Plug-Ins\Urban_Simulator\bin\Debug\net48\Urban_Simulator.rhp
+D:\Grasshopper polishing\Rhino_Plug-Ins\Urban_Simulator\bin\Debug\net48\Urban_Simulator.pdb
+D:\Grasshopper polishing\Rhino_Plug-Ins\Urban_Simulator\obj\Debug\net48\Urban_Simulator.csproj.AssemblyReference.cache
+D:\Grasshopper polishing\Rhino_Plug-Ins\Urban_Simulator\obj\Debug\net48\Urban_Simulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Grasshopper polishing\Rhino_Plug-Ins\Urban_Simulator\obj\Debug\net48\Urban_Simulator.AssemblyInfoInputs.cache
+D:\Grasshopper polishing\Rhino_Plug-Ins\Urban_Simulator\obj\Debug\net48\Urban_Simulator.AssemblyInfo.cs
+D:\Grasshopper polishing\Rhino_Plug-Ins\Urban_Simulator\obj\Debug\net48\Urban_Simulator.csproj.CoreCompileInputs.cache
+D:\Grasshopper polishing\Rhino_Plug-Ins\Urban_Simulator\obj\Debug\net48\Urban_Simulator.rhp
+D:\Grasshopper polishing\Rhino_Plug-Ins\Urban_Simulator\obj\Debug\net48\Urban_Simulator.pdb

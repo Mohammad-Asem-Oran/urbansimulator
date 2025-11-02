@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OVh0z5XwcuFT+j+LE3Y3Vh/k+mw51wbZo3JidMokOoBjIRfi6H0me1moKN/m/vYOYB9U+BceEInNDztXOSsqGQ==",
+  "success": true,
+  "projectFilePath": "D:\\Grasshopper polishing\\Rhino_Plug-Ins\\Urban_Simulator\\Urban_Simulator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\rhinocommon\\7.13.21348.13001\\rhinocommon.7.13.21348.13001.nupkg.sha512"
+  ],
+  "logs": []
+}
